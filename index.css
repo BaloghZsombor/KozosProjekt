@@ -1,0 +1,26 @@
+body{
+    background-color: gray;
+    
+}
+nav{
+    background-color: white;
+    text-align: right;
+    padding: 5px;
+    
+}
+nav ul li{
+    display:inline;
+    padding: 100px;
+    text-align: right;
+    font-size: 25px;
+    font-family:cursive;
+}
+nav ul li a:hover{
+    
+    color: red;
+}
+
+img{
+    float: left;
+    width:4%;
+}
