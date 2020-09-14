@@ -22,5 +22,10 @@ nav ul li a:hover{
 
 img{
     float: left;
-    width:4%;
+    width:5%;
+}
+p{
+    text-align: center;
+    font-size: 25px;
+    font-family: cursive;
 }
