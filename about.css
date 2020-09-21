@@ -1,0 +1,51 @@
+body{
+    background-image: url(abouthatter.png);
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #333;
+    color: black;
+    font-family: Lucida Sans Unicode;
+    font-style: italic;
+    
+    
+}
+nav{
+    background-color: white;
+    text-align: right;
+    padding: 5px;
+    
+}
+nav ul li{
+    display:inline;
+    padding: 100px;
+    text-align: right;
+    font-size: 20px;
+    font-family:cursive;
+}
+nav ul li a:hover{
+    
+    color: red;
+}
+
+#gorillalogo{
+    float: left;
+    width:5%;
+}
+p{
+    text-align: center;
+    font-size: 25px;
+    font-family: cursive;
+    padding-bottom: 10px;
+    
+}
+#kepabout{
+    width: 30%;
+    padding-left: 35%;
+    height: 10%;
+}
+.Tartalom{
+    width: 80%;
+    padding-left: 10%;
+}
